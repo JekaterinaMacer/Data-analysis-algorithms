@@ -1,2 +1,2 @@
 # Data analysis algorithms
-Data processing and analysis algorithms
+Урок 1. Алгоритм линейной регрессии. Градиентный спуск.
