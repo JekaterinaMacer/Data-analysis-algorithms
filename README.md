@@ -1,2 +1,2 @@
-# Data-processing-and-analysis-algorithms
+# Data analysis algorithms
 Data processing and analysis algorithms
